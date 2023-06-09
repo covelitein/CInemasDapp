@@ -1,0 +1,22 @@
+export const globalStates = {
+  movies: [],
+  movie: {},
+  singleMovie: {},
+  slotsForDay: [],
+  slotsForMovie: [],
+  ticketHolders: [],
+  movieToTicketHolderStatus: null,
+  connectedAccount: "",
+  messages: [],
+  deployer: "",
+  updateMovieModal: "scale-0",
+  deleteMovieModal: "scale-0",
+  slotsModal: "scale-0",
+  ticketsModal: "scale-0",
+  addSlotModal: "scale-0",
+  currentUser: {},
+  chatModal: "scale-0",
+  chatCommandModal: "scale-0",
+  authChatModal: "scale-0",
+  group: {}
+}
